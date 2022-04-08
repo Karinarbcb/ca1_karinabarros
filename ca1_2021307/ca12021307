@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"> 
-    <meta name="author" content="Karina">
+    <meta name="author" content="Karina Barros">
     <meta name="description" content="A copy of a Wikipedia article about brazilian singer, Anitta.">
     <title> Anitta </title> 
 
@@ -26,7 +26,13 @@
     <h1>Anitta</h1>
     <p id="1"><strong> Larissa de Macedo Machado </strong>(born March 30, 1993),<sup>[2]</sup> better known by her <a href="https://en.wikipedia.org/wiki/Stage_name">stage name</a> <strong>Anitta</strong>, is a Brazilian singer, songwriter, actress, dancer, businesswoman and TV presenter. <sup>[3][4]</sup> She rose to national fame with the release of her single <a href="https://en.wikipedia.org/wiki/Show_das_Poderosas">Show das Poderosas"</a> in 2013.<sup>[5][6][7]</sup>
     </p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anitta_2021.jpg/220px-Anitta_2021.jpg" alt="Anitta picture">
+
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anitta_2021.jpg/220px-Anitta_2021.jpg"  alt="Anitta picture">
+        <figcaption>
+            Brazilian singer, Anitta.
+        </figcaption>
+    </figure>
 
     <p id="2">After achieved commercial success with her debut single  <a href="https://en.wikipedia.org/wiki/Meiga_e_Abusada">"Meiga e Abusada"</a> in 2012, she signed a recording contract with<a href="https://en.wikipedia.org/wiki/Warner_Music_Group"> Warner Music Brazil</a> in January 2013.<sup>[8]</sup> In July of the same year, she released her <a href="https://en.wikipedia.org/wiki/Anitta_(album)"></a>self-titled debut album</a> which produced four successful singles and was certified platinum in Brazil.<sup>[5]</sup> Her second studio album, <a href="https://en.wikipedia.org/wiki/Ritmo_Perfeito"></a>Ritmo Perfeito</a> (2014), also achieved commercial success in the country,<sup>[9]</sup> and was accompanied by the release of her first live album <a href="https://en.wikipedia.org/wiki/Meu_Lugar">Meu Lugar</a>, on the same day.<sup>[9][10]</sup> In 2015, she released her third studio album entitled <a href="https://en.wikipedia.org/wiki/Bang!_(Anitta_album)">Bang</a>, which was certified platinum and spawned four successful singles <a href="https://en.wikipedia.org/wiki/Deixa_Ele_Sofrer">"Deixa Ele Sofrer"</a>, the title track <a href="https://en.wikipedia.org/wiki/Bang!_(Anitta_album)"> "Bang"</a>, <a href="https://en.wikipedia.org/wiki/Essa_Mina_%C3%A9_Louca">"Essa Mina é Louca"</a> and "Cravo e Canela". The album played a crucial role on establishing her almost dominant position in Brazilian pop music.</p>
     
